@@ -4,3 +4,21 @@
 
 # LangGraph
 .langgraph_api/
+
+# Environment / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# uv
+# (uv.lock IS committed — do not ignore it)
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
